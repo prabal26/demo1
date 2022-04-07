@@ -1,3 +1,3 @@
-FROM Busybox
+FROM busybox
 
 RUN echo "hello worlddd"
